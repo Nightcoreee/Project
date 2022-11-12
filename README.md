@@ -1,2 +1,0 @@
-# QuanLiNhaSach
-Do an
